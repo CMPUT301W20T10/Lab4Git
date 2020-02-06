@@ -1,8 +1,10 @@
-lspackage com.cmput301w20t10.lab4git;
+package com.cmput301w20t10.lab4git;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.cmput301w20t10.lab4git.R;
 
 public class MainActivity extends AppCompatActivity {
 
