@@ -5,7 +5,7 @@ public abstract class Shape {
     protected int x;
     protected int y;
     
-    String color = "Green";
+    String color = "Blue";
 
     public int getX() {
         return x;
