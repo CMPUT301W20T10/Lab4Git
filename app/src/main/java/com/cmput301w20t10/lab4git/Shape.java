@@ -4,6 +4,8 @@ public abstract class Shape {
 
     protected int x;
     protected int y;
+    
+    String color = "Blue";
 
     protected String color = "blue";
 
@@ -24,6 +26,7 @@ public abstract class Shape {
     }
 
     public void setColor(String color) {this.color = color;}
+
 
     public String getColor() {return color;}
 }
