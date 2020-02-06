@@ -7,6 +7,8 @@ public abstract class Shape {
     
     String color = "Blue";
 
+    private String color = "RED";
+
     public int getX() {
         return x;
     }
