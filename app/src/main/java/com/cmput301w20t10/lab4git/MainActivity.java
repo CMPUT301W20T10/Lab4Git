@@ -1,4 +1,4 @@
-lspackage com.cmput301w20t10.lab4git;
+package com.cmput301w20t10.lab4git;
 
 import androidx.appcompat.app.AppCompatActivity;
 
