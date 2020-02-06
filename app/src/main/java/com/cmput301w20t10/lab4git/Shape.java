@@ -1,8 +1,6 @@
 package com.cmput301w20t10.lab4git;
 
 public abstract class Shape {
-    protected String color = "Neon Brown";
-
     protected int x;
     protected int y;
     
